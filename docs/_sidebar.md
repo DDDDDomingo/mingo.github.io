@@ -1,8 +1,6 @@
-# mingo-blog
+<!-- docs/_sidebar.md -->
 
-网站建设中......
-
-知识清单：
+* [首页](#mingo-blog)
 * [计算机基础//TODO](/)
   * [计算机网络//TODO](/)
   * [操作系统//TODO](/)
@@ -34,6 +32,6 @@
 * [架构//TODO](/)
   * [系统//TODO](/)
   * [业务//TODO](/)
-* [开发工具](/)
-  * [Windows开发工具](/article/DevelopmentTools/win.md)
-* [杂项//TODO](/)
+* [开发工具](...)
+  * [Windows开发工具](/article/win.md)
+* [阅读//TODO](/)
